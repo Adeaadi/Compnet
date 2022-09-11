@@ -20,7 +20,7 @@ def welcome_assignment_answers(question):
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to?":
         answer = "int(input(1))"
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to?":
-        answer = "int(input(3))" 
+        answer = "int(input(4))" 
  
     else: 
        
